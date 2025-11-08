@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Server Time</title>
+    <script>
+      const now = new Date();
+      const utc = now.toISOString();
+      document.write(JSON.stringify({ utc_time: utc }));
+    </script>
+  </head>
+</html>
