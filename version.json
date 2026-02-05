@@ -1,0 +1,8 @@
+{
+  "code": 21,
+  "ad_config": {
+    "enable_monitoring": 1,
+    "max_offline_days": 7,
+    "emergency_hours": 24
+  }
+}
