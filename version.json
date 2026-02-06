@@ -1,8 +1,5 @@
 {
-  "code": 24,
-  "ad_config": {
-    "enable_monitoring": 1,
-    "max_offline_days": 7,
-    "emergency_hours": 24
-  }
+  "code": 2,
+  "max_offline_days": 7,
+  "force_coin_mode": 0
 }
