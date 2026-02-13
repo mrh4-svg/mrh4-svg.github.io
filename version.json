@@ -1,5 +1,5 @@
 {
-  "version": 21,
-  "force_update": 0,  
-  "penalty_status": 1
+  "version_code": 1,
+  "force_update": 1,
+  "coin_system_active": 1
 }
